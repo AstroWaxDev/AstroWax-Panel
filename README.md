@@ -44,5 +44,5 @@
 > Get up and running instantly with this single command. Ideal for testing or rapid deployment.
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/AstroVoidHostDev/astrowax/main/install.sh)
+bash <(curl -s https://astrowax-installer.astrovoidhost.qzz.io)
 
